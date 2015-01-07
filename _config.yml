@@ -1,9 +1,9 @@
 # Site settings
 title: Traveling Joy
 description:
-baseurl: "travelingjoy.com/"
+baseurl:
 permalink: /:categories/:title/
-url: "http://magnified-joy.github.io/travelingjoy.com/"
+url: "https://www.travelingjoy.com/"
 image: "https://googledrive.com/host/0B2YHeCssXjxzN0UzdVZtNmFINTQ/magnifiedjoy-opengraph.jpg"
 include: ['_css','_js','_img']
 exclude: ['README.md','CNAME']
