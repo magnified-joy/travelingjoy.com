@@ -1,0 +1,36 @@
+---
+title: Santa Fe, Albuquerque, NM Wedding Photographer | Desert Harbor | Premiere Honeymoon
+  Elopement Destination Wedding Venue
+label: Desert Harbor, Albuquerque, NM
+date: '2014-04-23 05:14:08 -0500'
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor-Feb-2014-094-480x375.jpg
+keywords: New Mexico wedding photographer, Albuquerque NM wedding photographer, New Mexico wedding venues, Albuquerque NM wedding venues, New Mexico honeymoon, Albuquerque NM honeymoon, Desert Harbor, off-the-grid, Sandia Mountains, solar-powered, hot tub
+latitude: 35.0486654
+longitude: -106.61670429999998
+---
+<p>New Mexico is quickly becoming one of our favorite states to visit each year. Last year (also in February) we took a trip to Albuquerque and stayed at <a href="http://bit.ly/YSJbTx">Los Poblanos</a>. After our first exposure to New Mexico, we knew we wanted to come back and explore some more. New Mexico is just full of colors and unique landscapes that we have not seen anywhere else in the United States! While planning our first <a href="http://bit.ly/1dtGM8S">Road Trip to California</a> we made sure that we included Albuquerque in our route. As we were researching on a new venue to highlight, we stumbled upon <a href="http://desertharborretreat.com">Desert Harbor</a>. We were blown away by the uniqueness of this establishment! Their business practices really resonated with us and we were convinced that we wanted to feature this place! (We're talking off-the-grid, fully solar powered, well water, no GPS can get you here, cellphone barely has reception, silence, shower naked outdoors facing the beautiful New Mexico landscape) Although we didn't get to have the full experience of what Desert Harbor has to offer as the hosts, Raymond and Wesley, were taking a much deserved annual family vacation of their own. They were kind enough to open up the space for us to stay and explore, even though they were not there. We were a little bummed that we didn't have the opportunity to taste their local organic meals they always provide for their guests, judging by the menu (as foodies ourselves), it would have been ah-ma-zing! </p>
+<p>We were given creative freedom to photograph their property. During our stay there, we were rejuvenated in our creativity, spirituality, in our marriage, and in our physical bodies as well. We would recommend this gem to anyone looking for a place to retreat to for various reasons (honeymoon, anniversaries, getaways, babymoons, etc.). Really though, you don't need a reason; this place is just such a treat that does your body and mind well! Desert Harbor is also open for weddings/elopement.</p>
+<p>We'll let the photos tell the rest of the story. Also, we did an <a href="http://bit.ly/1gJ7IHR">engagement shoot there as well</a>, this will give you a taste of what a wedding/elopement could look like at Desert Harbor.</p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor001.jpg" alt="Desert Harbor001" width="1500" height="1068" class="alignnone size-full wp-image-5125" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor002.jpg" alt="Desert Harbor002" width="1500" height="1068" class="alignnone size-full wp-image-5126" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor003.jpg" alt="Desert Harbor003" width="1500" height="1068" class="alignnone size-full wp-image-5127" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor004.jpg" alt="Desert Harbor004" width="1500" height="1068" class="alignnone size-full wp-image-5128" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor005.jpg" alt="Desert Harbor005" width="1500" height="1068" class="alignnone size-full wp-image-5129" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor006.jpg" alt="Desert Harbor006" width="1500" height="1068" class="alignnone size-full wp-image-5130" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor007.jpg" alt="Desert Harbor007" width="1500" height="571" class="alignnone size-full wp-image-5131" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor008.jpg" alt="Desert Harbor008" width="1500" height="1184" class="alignnone size-full wp-image-5132" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor009.jpg" alt="Desert Harbor009" width="1500" height="571" class="alignnone size-full wp-image-5133" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor010.jpg" alt="Desert Harbor010" width="1500" height="1068" class="alignnone size-full wp-image-5134" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor011.jpg" alt="Desert Harbor011" width="1500" height="1068" class="alignnone size-full wp-image-5135" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor012.jpg" alt="Desert Harbor012" width="1500" height="1184" class="alignnone size-full wp-image-5136" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor013.jpg" alt="Desert Harbor013" width="1500" height="1068" class="alignnone size-full wp-image-5137" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor014.jpg" alt="Desert Harbor014" width="1500" height="1184" class="alignnone size-full wp-image-5138" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor015.jpg" alt="Desert Harbor015" width="1500" height="1184" class="alignnone size-full wp-image-5139" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor016.jpg" alt="Desert Harbor016" width="1500" height="1068" class="alignnone size-full wp-image-5140" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor017.jpg" alt="Desert Harbor017" width="1500" height="1068" class="alignnone size-full wp-image-5141" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor018.jpg" alt="Desert Harbor018" width="1500" height="1068" class="alignnone size-full wp-image-5142" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor019.jpg" alt="Desert Harbor019" width="1500" height="1068" class="alignnone size-full wp-image-5143" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor020.jpg" alt="Desert Harbor020" width="1500" height="1068" class="alignnone size-full wp-image-5144" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor021.jpg" alt="Desert Harbor021" width="1500" height="1068" class="alignnone size-full wp-image-5145" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzemN6cGJIQWZVSU0/Desert-Harbor022.jpg" alt="Desert Harbor022" width="1500" height="1068" class="alignnone size-full wp-image-5146" /></p>
+<h2><a href="http://bit.ly/1gJ7IHR">Click here to see an engagement shoot that we shot at Desert Harbor</a></h2>

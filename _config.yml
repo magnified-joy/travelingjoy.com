@@ -1,0 +1,27 @@
+# Site settings
+title: Traveling Joy
+description:
+baseurl:
+permalink: /:categories/:title/
+url: "http://www.travelingjoy.com"
+image: "https://googledrive.com/host/0B2YHeCssXjxzN0UzdVZtNmFINTQ/magnifiedjoy-opengraph.jpg"
+include: ['_css','_js','_img']
+exclude: ['README.md','CNAME']
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+gems:
+  - jekyll-redirect-from
+
+# Build settings
+markdown: kramdown

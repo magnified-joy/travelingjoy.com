@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% if page.gallery %}
+    {% assign posts = site.categories.[page.gallery] %}
+{% else %}
+    {% assign posts = site.posts %}
+{% endif %}
+
+<div class="container gallery content">
+    <div class="row">
+        <h1>{{ page.title }}</h1>
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+
+            {{ content }}
+
+            {% for post in posts %}
+                    <div class="col-xs-6 col-md-4">
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
+                        <img src="{{ site.baseurl }}/_img/transparent-3x2.png" style="background-image:url({{ post.thumbnail }});" alt="{{ post.title }}">
+                        <div class="caption">
+                            View more {% if post.label %} of <br><strong>{{ post.label }}</strong>{% endif %}
+                        </div>
+                    </a>
+                    </div>
+            {% endfor %}
+
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <!-- <div class="center">
+        <div class="btn-group">
+            <button type="button" class="active btn btn-default">1</button>
+            <button type="button" class="btn btn-default">2</button>
+            <button type="button" class="btn btn-default">3</button>
+            <button type="button" class="btn btn-default">4</button>
+        </div>
+        <button type="button" class="btn btn-default">next page</button>
+    </div> -->
+</div>

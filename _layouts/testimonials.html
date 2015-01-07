@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{% assign posts = site.categories.testimonials %}
+<div class="container content testimonials">
+    
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+        <h1 class="center" style="margin-bottom:1em">Raves</h1>
+    {% for post in posts %}
+        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if forloop.first %}{% else %}<hr>{% endif %}
+        {% if thecycle == 'odd' %}
+            <div class="row odd">
+                    <div class="col-sm-7">
+                        {{ post.content }}
+                        <h3>- {{ post.title }}</h3>
+                    </div>
+                    <div class="col-sm-5">
+                        <img src="{{ post.image }}" alt="{{ post.title }}">
+                    </div>
+            </div>
+        {% else %}
+            <div class="row even">
+                    <div class="col-sm-5">
+                        <img src="{{ post.image }}" alt="{{ post.title }}">
+                    </div>
+                    <div class="col-sm-7">{{ post.content }}
+                        <h3>- {{ post.title }}</h3>
+                    </div>
+            </div>
+        {% endif %}
+
+    {% endfor %}
+    
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="{{ site.baseurl }}/_js/testimonials.js"></script>
+{% include bottom.html %}

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div id="portfolioCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+  
+    {% for image in page.images %}
+
+    <div class="item{% if forloop.first %} active{% endif %}">
+        <img src="{{ site.baseurl }}/_img/transparent.png" style="background-image:url({% if page.image_folder %}{{ page.image_folder }}/{% endif %}{{ image }});" alt="{{ page.title }}">
+    </div>
+
+    {% endfor %}
+
+  </div>
+  <a class="left carousel-control" href="#portfolioCarousel" role="button" data-slide="prev"><img src="{{ site.baseurl }}/_img/arrow-left-dark.png" alt=""></a>
+  <a class="right carousel-control" href="#portfolioCarousel" role="button" data-slide="next"><img src="{{ site.baseurl }}/_img/arrow-right-dark.png" alt=""></a>
+  <a href="{{ page.portfolio_link }}" class="caption">View more <br>{{ page.portfolio_type }} photos</a>
+</div>
+{% include bottom.html %}
+<script src="{{ site.baseurl }}/_js/portfolio.js"></script>

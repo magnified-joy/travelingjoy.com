@@ -1,0 +1,52 @@
+---
+title: Markdown Generator
+permalink: new/
+---
+        <div class="col-md-12"><h2>Post Markdown Generator</h2></div>
+        <div class="form-group col-md-6">
+            <h4>Date (yyyy-mm-dd)</h4>
+            <input class="form-control" id="date"  value="{{ site.time | date: "%Y-%m-%d" }}">
+            <h4>Title</h4>
+            <input class="form-control" id="title" placeholder="My Post | Person 1 + Person 2">
+            <h4>Label</h4>
+            <input class="form-control" id="label" placeholder="Person 1 + Person 2">
+            <h4>Thumbnail Image</h4>
+            <input class="form-control" id="thumbnail" placeholder="https://googledrive.com/host/XX-XXXXXXXXXXXXX/filename.jpg">
+            <h4>Meta Description</h4>
+            <input class="form-control" id="description" placeholder="">
+            <h4>Meta Keywords</h4>
+            <input class="form-control" id="keywords" placeholder="">
+            <h4>Location</h4>
+            <input class="form-control" id="location" placeholder="">
+            <h4>Folder URL</h4>
+            <input class="form-control" id="folder" placeholder="https://googledrive.com/host/XX-XXXXXXXXXXXXX">
+            <h4>File List</h4>
+            <textarea id="images" class="form-control" rows="5" placeholder="Image-Name-001.jpg
+Image-Name-003.jpg
+Image-Name-004.jpg
+Image-Name-006.jpg
+Image-Name-007.jpg
+Image-Name-008.jpg
+Image-Name-010.jpg
+Image-Name-011.jpg
+Image-Name-012.jpg
+Image-Name-013.jpg
+Image-Name-014.jpg
+Image-Name-015.jpg
+Image-Name-016.jpg
+Image-Name-017.jpg
+Image-Name-018.jpg
+Image-Name-019.jpg
+Image-Name-020.jpg"></textarea>
+<h4>Text/Markdown/HTML Content</h4>
+            <textarea id="content" class="form-control" rows="5" placeholder=""></textarea>
+        </div>
+        <div class="form-group col-md-6">
+            <h4>Generated Markdown</h4>
+            <textarea id="markdown" class="form-control" rows="18" placeholder=""></textarea>
+            <input type="button" id="download" class="btn btn-default" value="Download" style="margin-top:2em;"/>
+            <p><em id="filename"></em></p>
+        </div>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhudgK3ERFRlT0plscHoxlOrQwS1nSxZE"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/_js/new.js"></script>

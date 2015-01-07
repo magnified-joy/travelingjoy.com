@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% assign posts = site.categories.faq %}
+<div class="container content faq">
+    {{ content }}
+    <div class="row faq">
+        <div class="col-md-12">
+            <h1 class="center" style="margin-bottom:2em">Your Questions</h1>
+        </div>
+        <div class="col-md-4 questions" style="float:right">
+            <ol class="menu">
+                {% for post in posts %}
+                <li><a href="#{{ post.url | replace: '/faq/','' }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ol>
+        </div>
+        <div class="col-md-8 answers">
+        {% for post in posts %}
+            {% if forloop.first %}{% else %}<hr>{% endif %}
+            <h2><span class="anchor"><a name="{{ post.url | replace: '/faq/','' }}"></a>{{ forloop.index }}</span>{{ post.title }}</h2>
+            {{ post.content }}
+        {% endfor %}
+    </div>
+</div>
+{% include bottom.html %}

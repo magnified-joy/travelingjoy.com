@@ -1,0 +1,17 @@
+---
+layout: page
+---
+<div class="row">
+    <div class="col-md-2">&nbsp;</div>
+    <div class="col-md-8">
+        <div class="col-md-12">
+            <h3 style="margin-top:0">{{ page.title }}</h3>
+            <h4>{{ page.date | date: '%B %d' }}</h4>
+            {{ content }}
+        </div>
+        <div class="col-md-12" >
+            {% include facebook-comments.html %}
+        </div>
+    </div>
+    <div class="col-md-2">&nbsp;</div>
+</div>
