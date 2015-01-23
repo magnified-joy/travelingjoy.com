@@ -446,14 +446,11 @@ blockquote, blockquote.blockquote-reverse{
         font-size:0.8em;
     }
     body{
-        padding-top:140px;
+        padding-top:160px;
     }
-    .home .navigation{
-        position:absolute;
-        width:100%;
-        top:0;
-        left:0;
-    }
+		body.home{
+			padding-top:140px;
+		}
     .navigation{
         position: fixed;
         z-index: 10;
