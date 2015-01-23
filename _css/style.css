@@ -159,6 +159,9 @@ p{
 .content li{
     margin:1em 0;
 }
+.content .gamma-gallery li{
+	margin:0;
+}
 .content .faq li{
     margin:0 0;
 }
@@ -443,7 +446,7 @@ blockquote, blockquote.blockquote-reverse{
         font-size:0.8em;
     }
     body{
-        padding-top:160px;
+        padding-top:140px;
     }
     .home .navigation{
         position:absolute;
