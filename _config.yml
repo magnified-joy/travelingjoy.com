@@ -7,6 +7,8 @@ url: "https://www.travelingjoy.com/"
 image: "http://photos-g.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/10894994_1395652407400574_1618050240_n.jpg"
 include: ['_css','_js','_img']
 exclude: ['README.md','CNAME']
+paginate: 1
+paginate_path: "/blog/:num/"
 defaults:
   -
     scope:
